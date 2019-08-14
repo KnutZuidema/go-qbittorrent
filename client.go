@@ -1,4 +1,4 @@
-package go_qbittorrent
+package qbittorrent
 
 import (
 	"fmt"
